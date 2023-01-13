@@ -1,6 +1,6 @@
 # Coursera-Assignment-1-Using-PILLOW
 
-#Assignment-1-Using-PILLOW -- UMichigan Coursera
+# Assignment-1-Using-PILLOW -- UMichigan Coursera
 
 Python 3 Programming - UMichigan --> Assignment 1: Building a Better Contact Sheet with PILLOW
 
@@ -23,7 +23,7 @@ For instance, a pixel represented as (200, 100, 50) is a sort of burnt orange co
 Note: A font is included for your usage if you would like! It's located in the file readonly/fanwood-webfont.ttf
 
 Need some hints? Use them sparingly, see how much you can get done on your own first! The sample code given in the class has been cleaned up below, you might want to start from that.
-HINTs
+# HINTs
 
     Check out the PIL.ImageDraw module for helpful functions
 
